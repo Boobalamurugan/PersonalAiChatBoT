@@ -4,3 +4,4 @@ elevenlabs==1.54.0
 python-dotenv==1.0.1
 requests==2.31.0
 assemblyai==0.17.0
+gunicorn
