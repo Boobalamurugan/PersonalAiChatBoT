@@ -1,0 +1,87 @@
+{
+  "name": "BOOBALAMURUGAN S",
+  "location": "Salem",
+  "email": "boobalamurugan.btech@gmail.com",
+  "portfolio": "Portfolio/boobalamurugan",
+  "linkedin": "linkedin/boobalamurugan",
+  "github": "github/boobalamurugan",
+  "experience": [
+    {
+      "role": "AI Engineer Intern",
+      "company": "Interviewdesk",
+      "duration": "Feb 2025 - Present",
+      "details": [
+        "Developing real-time computer vision proctoring systems with multi-person tracking and anomaly detection",
+        "Implementing face anti-spoofing techniques using deep learning for secure identity verification",
+        "Optimizing object detection models for accurate candidate monitoring in live assessments",
+        "Deploying scalable computer vision pipelines using AWS Lambda and AWS ECS",
+        "Enhancing backend systems to support high-performance AI-driven video processing"
+      ]
+    },
+    {
+      "role": "Computer Vision Intern",
+      "company": "Punchbiz",
+      "duration": "Jun 2023 - May 2024",
+      "details": [
+        "Contributed to the CrickVision project by collecting high-quality cricket performance data from academies",
+        "Trained and fine-tuned a YOLOv8 model, achieving a 15% improvement in accuracy",
+        "Optimized player analysis workflows using automated data pipelines, reducing processing time by 25%"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Football AI",
+      "github": "github.com/FootBallAi",
+      "details": [
+        "Developed a player detection and tracking system for real-time football analytics",
+        "Implemented ball-to-player assignment and team classification using KMeans clustering",
+        "Applied homography transformations to accurately compute player locations on the field",
+        "Optimized video processing workflows for efficient football match analysis"
+      ],
+      "tools": "Python, OpenCV, YOLO, KMeans, NumPy, PyTorch"
+    },
+    {
+      "title": "Real-Time Fire Detection System",
+      "github": "github.com/Fire-Detection",
+      "details": [
+        "Developed a real-time fire detection system using YOLOv8 and computer vision, achieving 78% accuracy",
+        "Integrated AI-based anomaly detection to reduce false alarms and improve response time",
+        "Automated fire suppression activation using targeted sprinkler systems, minimizing manual intervention"
+      ],
+      "tools": "Python, OpenCV, Deep Learning"
+    }
+  ],
+  "skills": {
+    "languages": ["C++", "Python"],
+    "tools_and_libraries": ["Anaconda", "Jupyter", "PyTorch", "Scikit-learn", "Transformers", "OpenCV", "Langchain", "Pillow"]
+  },
+  "achievements": [
+    {
+      "title": "Winner, iStart Hackathon",
+      "date": "Sep 2024",
+      "details": "Awarded 10,000 for innovative problem-solving and technical implementation"
+    },
+    {
+      "title": "Winner, Telangana Srushti Sangamam",
+      "date": "Dec 2024",
+      "details": "Awarded 15,000 for grassroots innovation development solutions by Atal Community Innovation Center"
+    }
+  ],
+  "education": {
+    "degree": "B.Tech in Artificial Intelligence and Data Science",
+    "university": "Knowledge Institute of Technology",
+    "duration": "2021-2025",
+    "cgpa": "7.9",
+    "coursework": [
+      "Machine Learning",
+      "Deep Learning",
+      "Data Structures and Algorithms",
+      "Data Science Foundations",
+      "Artificial Intelligence",
+      "Neural Networks",
+      "Computer Vision",
+      "Probability and Statistics for Data Science"
+    ]
+  }
+}
